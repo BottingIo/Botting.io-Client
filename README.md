@@ -29,8 +29,3 @@ The file name should be `automation-settings.json`, and the contents should be:
     webServerUrl: "http://localhost:8084"
 }
 ```
-
-
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
