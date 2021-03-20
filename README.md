@@ -4,7 +4,7 @@
 
 ### Download and install the latest release
 
-To get started, you first want to download and install the latest release from releases.
+To get started, you first want to download and install the latest release from [releases](https://github.com/BottingIo/Botting.io-Client/releases).
 
 #### TRiBot Configuration
 
